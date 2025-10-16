@@ -37,11 +37,11 @@ Mission
 
 ##
 Skills
-Power BI
-Sql
-Excel
-Data Analysis
-Data Visualization
+*Power BI
+*Sql
+*Excel
+*Data Analysis
+*Data Visualization
 <p align="left"></h2>
 
 ###
