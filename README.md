@@ -27,16 +27,13 @@ Data Analyst|Power BI | SQL | Excel
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
-##
-About Me
+## About Me
 <h2 align="left"></h2>
 
-##
-Mission
+## Mission
 <h2 align="left"></h2>
 
-##
-Skills
+## Skills
 *Power BI
 *Sql
 *Excel
@@ -44,5 +41,4 @@ Skills
 *Data Visualization
 <p align="left"></h2>
 
-###
-Project Completed
+### Project Completed
