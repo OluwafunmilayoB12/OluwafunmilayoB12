@@ -1,6 +1,6 @@
 
 <h2 align="left">Hi 👋! My name is Ajayi Oluwafunmilayo</h2>
-
+Data Analyst|Power BI | SQL | Excel
 ###
 
 <div align="left">
