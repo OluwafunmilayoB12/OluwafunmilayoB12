@@ -34,11 +34,11 @@ Data Analyst|Power BI | SQL | Excel
 <h2 align="left"></h2>
 
 ## Skills
-*Power BI
-*Sql
-*Excel
-*Data Analysis
-*Data Visualization
+* Power BI
+* Sql
+* Excel
+* Data Analysis
+* Data Visualization
 <p align="left"></h2>
 
 ### Project Completed
