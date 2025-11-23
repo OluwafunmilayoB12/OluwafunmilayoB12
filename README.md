@@ -42,3 +42,4 @@ Data Analyst|Power BI | SQL | Excel
 <p align="left"></h2>
 
 ### Project Completed
+* ![TechNova Cloud Health & Tecnibal Debt Audit](https://github.com/OluwafunmilayoB12/Project)
