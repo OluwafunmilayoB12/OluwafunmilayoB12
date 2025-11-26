@@ -24,9 +24,9 @@ Aspiring Data Analyst|Turning data into insights
 </div>
 
 ## About Me
-<h2 align="left">
+<h2 align="left"></h2>
  I'm an Aspiring Data Analyst turning raw data into clear, decision-ready insights. Passionate about cleaning, analyzing and visualizing data to solve business problems.   
-</h2>
+
 
 ## Skills
 * Power BI
