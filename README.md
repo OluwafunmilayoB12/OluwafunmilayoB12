@@ -38,3 +38,6 @@ Aspiring Data Analyst|Turning data into insights
 
 ### Project Completed
 * ![Project 1](https://github.com/OluwafunmilayoB12/TechNova-Cloud-Health-Technical-Debt-Audit-case-study)
+
+### Contact
+![Email]: ajayioluwafunmilayoblessing@gmail.com
