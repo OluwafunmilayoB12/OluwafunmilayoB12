@@ -36,7 +36,7 @@ Aspiring Data Analyst|Turning data into insights
 * Data Visualization
 <p align="left"></h2>
 
-### Project Completed
+### Projects Completed
 * Project 1: https://github.com/OluwafunmilayoB12/TechNova-Cloud-Health-Technical-Debt-Audit-case-study
 * Project 2: https://github.com/OluwafunmilayoB12/Posh-Hairs--Revenue-Performance-Analysis
 
