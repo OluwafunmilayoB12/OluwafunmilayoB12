@@ -25,7 +25,12 @@ Aspiring Data Analyst|Turning data into insights
 
 ## About Me
 <h2 align="left"></h2>
- I'm an Aspiring Data Analyst turning raw data into clear, decision-ready insights. Passionate about cleaning, analyzing and visualizing data to solve business problems.   
+ I am a Data Analyst turning raw data into clear, decision-ready insights. Passionate about cleaning, analyzing and visualizing data to solve business problems.   
+ I help businesses find where they’re losing money and uncover opportunities to grow revenue using data.
+Most businesses have data but don’t fully understand what it’s telling them that’s where I come in.
+I clean and analyze financial data, then turn it into clear dashboards and insights that support smarter decisions around budgeting, forecasting, and performance.
+
+My goal is simple: help businesses make decisions backed by data, not guesswork.
 
 
 ## Skills
