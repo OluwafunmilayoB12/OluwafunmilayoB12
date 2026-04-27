@@ -19,16 +19,19 @@ Aspiring Data Analyst|Turning data into insights
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/oluwafunmilayo-ajayi-analyst/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </div>
 
 ## About Me
 <h2 align="left"></h2>
- I am a Data Analyst turning raw data into clear, decision-ready insights. Passionate about cleaning, analyzing and visualizing data to solve business problems.   
+ I am a Data Analyst turning raw data into clear, decision-ready insights. Passionate about cleaning, analyzing and visualizing data to solve business problems.
+ 
  I help businesses find where they’re losing money and uncover opportunities to grow revenue using data.
-Most businesses have data but don’t fully understand what it’s telling them that’s where I come in.
-I clean and analyze financial data, then turn it into clear dashboards and insights that support smarter decisions around budgeting, forecasting, and performance.
+ Most businesses have data but don’t fully understand what it’s telling them that’s where I come in.
+
+ I clean and analyze financial data, then turn it into clear dashboards and insights that support smarter decisions around budgeting, forecasting, and performance.
 
 My goal is simple: help businesses make decisions backed by data, not guesswork.
 
