@@ -1,6 +1,8 @@
 
 <h2 align="left">Hi 👋! My name is Ajayi Oluwafunmilayo</h2>
- Data Analyst|Turning business data into insights that increase revenue and reduce losses
+ Data Analyst|Turning business data into insights that increase revenue and reduce losses. 
+
+ 
 ###
 
 <div align="left">
