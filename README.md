@@ -50,4 +50,4 @@ My goal is simple: help businesses make decisions backed by data, not guesswork.
 * Project 2: https://github.com/OluwafunmilayoB12/Posh-Hairs--Revenue-Performance-Analysis
 
 ### Contact
-Email: ajayioluwafunmilayoblessing@gmail.com
+Email: ajayioluwafunmilayo320@gmail.com
